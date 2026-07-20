@@ -1,0 +1,17 @@
+{
+  "name": "Duolingo Arena",
+  "short_name": "DuoArena",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#04d361",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/static/icono.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
